@@ -6,6 +6,20 @@ This repository contains an implementation of [shaders](https://en.wikipedia.org
 
 This is simply a hobby project, I make no claims about the robustness or efficiency of this code.
 
+
+## Examples
+
+__Examples of animations__
+- [Reflecting and refracting sphere in Menger sponge](https://www.instagram.com/p/Cjvhu3dAv3z/)
+- [Game of life in 3D with depth of field](https://www.instagram.com/p/CkBEltjgbAo/)
+- [Mandelbrot bulb](https://www.instagram.com/p/CjcqTozMmcz/)
+- [N body chaos](https://www.instagram.com/p/CknVHILAUXi/)
+
+__Example stills__
+
+<img src="https://user-images.githubusercontent.com/74617371/210435306-26c36c2c-5fda-46df-89d1-1922246bc1ac.png" width=250 height=250> <img src="https://user-images.githubusercontent.com/74617371/210582221-d73e9965-9d0b-4ab6-8126-d92937bf4100.png" width=250 height=250> <img src="https://user-images.githubusercontent.com/74617371/210626449-43c7d56f-5477-4b9a-91b5-0b5a72ce8435.png" width=250 height=250>
+
+
 ## Contents
 
 The folder `NumbaShader3D` contains:
@@ -28,18 +42,6 @@ The main folder contains some more examples of 3D shaders:
 Lastly the script `Makevid.py` contains a simple function to show and save animations as video files using OpenCV.
 
 
-## Examples
-
-__Examples of animations__
-- [Reflecting and refracting sphere in Menger sponge](https://www.instagram.com/p/Cjvhu3dAv3z/)
-- [Game of life in 3D with depth of field](https://www.instagram.com/p/CkBEltjgbAo/)
-- [Mandelbrot bulb](https://www.instagram.com/p/CjcqTozMmcz/)
-- [N body chaos](https://www.instagram.com/p/CknVHILAUXi/)
-
-__Example stills__
-
-<img src="https://user-images.githubusercontent.com/74617371/210435306-26c36c2c-5fda-46df-89d1-1922246bc1ac.png" width=50% height=50%>
-<img src="https://user-images.githubusercontent.com/74617371/210582221-d73e9965-9d0b-4ab6-8126-d92937bf4100.png" width=50% height=50%>
 
 
 
