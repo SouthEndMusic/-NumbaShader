@@ -2,7 +2,7 @@
 """
 Created on Wed Oct 26 09:51:01 2022
 
-@author: bart1
+author: Bart de Koning
 """
 import numpy as np
 from numba import cuda
